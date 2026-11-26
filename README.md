@@ -121,3 +121,9 @@ GitHub: [srisanth-k](https://github.com/srisanth-k)
 ---
 
 *Built as a Data Analytics portfolio project.*
+
+## 📸 Dashboard Preview
+
+### Executive Overview
+
+![Retail Sales Dashboard](dashboard_overview.png)
